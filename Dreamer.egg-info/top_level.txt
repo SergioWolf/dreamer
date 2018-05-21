@@ -1,0 +1,6 @@
+dreamer_client
+dreamer_client/jim
+dreamer_server
+dreamer_server/avatars
+dreamer_server/jim
+dreamer_server/repo

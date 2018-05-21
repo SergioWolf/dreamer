@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: Dreamer
+Version: 0.11
+Summary: Simple messenger.
+Home-page: https://github.com/
+Author: Sergey Volkov
+Author-email: sergio_volf@mail.ru
+License: MIT
+Description: Hanita is simple messenger with multiusers chats.
+Keywords: python,messenger,dreamer
+Platform: UNKNOWN
+Requires-Python: >=3.5
